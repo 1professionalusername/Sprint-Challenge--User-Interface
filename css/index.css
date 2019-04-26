@@ -128,7 +128,7 @@ width: 100%;
 .middle-content .boxes .box1 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -140,7 +140,7 @@ width: 100%;
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -154,7 +154,7 @@ width: 100%;
 .middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -165,7 +165,7 @@ width: 100%;
 .middle-content .boxes .box4 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -176,7 +176,7 @@ width: 100%;
 .middle-content .boxes .box5 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -187,7 +187,7 @@ width: 100%;
 .middle-content .boxes .box6 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -198,7 +198,7 @@ width: 100%;
 .middle-content .boxes .box7 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -209,7 +209,7 @@ width: 100%;
 .middle-content .boxes .box8 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -220,7 +220,7 @@ width: 100%;
 .middle-content .boxes .box9 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -231,7 +231,7 @@ width: 100%;
 .middle-content .boxes .box10 {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
